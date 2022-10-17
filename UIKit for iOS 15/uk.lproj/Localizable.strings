@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  UIKit for iOS 15
+
+  Created by Олександр Швидкий on 13.10.2022.
+  
+*/
+
+"SwiftUI Concurrency" = "Паралелізм SwiftUI";
+"NEW VIDEO" = "НОВЕ ВІДЕО";
+"Build an iOS app for iOS 15 with custom layouts, animations and more!" = "Створіть програму iOS для iOS 15 із спеціальними макетами, анімацією тощо!";
+"Flutter for Designers" = "Flutter для дизайнерів";
+"20 sections - 3 hours" = "20 розділів – 3 години";
+"Build a Flutter app for iOS and Android with custom layouts, animations and more!" = "Створіть програму Flutter для iOS та Android із спеціальними макетами, анімацією тощо!";
+"React Hooks Advanced" = "Продвинуті трбки в React";
+"Build a React app with custom layouts, animations and more!" = "Створіть програму React із власними макетами, анімацією тощо!";
+"Advanced Custom Layout" = "Розширений спеціальний макет";
+"SwiftUI for iOS 15" = "SwiftUI для iOS 15";
+"Build an iOS app for iOS 15 with custom layouts." = "Створіть додаток iOS для iOS 15 із власними макетами.";
+"Coding the Home View" = "Кодування домашнього вигляду";
+"Learn about the formatted(date:time:) method and AsyncImage" = "Дізнайтеся про метод formatted(date:time:) і AsyncImage";
+"Colors and Shadows" = "Colors and Shadows";
+"Read about the design guidelines and how you can use color to maximize your best views" = "Прочитайте про вказівки щодо дизайну та про те, як ви можете використовувати колір, щоб отримати якнайкраще зображення";
+"iOS Development" = "iOS Розробника";
+"UI Design" = "UI Дизайн";
+"Web Development" = "Веб-розробка";
+"History" = "Історія";
+"Favorites" = "Вибране";
+"Downloads" = "Завантаження";
+
+"Featured" = "Рекомендовані";
+"Handbooks" = "Довідники";
+"Courses" = "Курси";

@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  UIKit for iOS 15
+
+  Created by Олександр Швидкий on 13.10.2022.
+  
+*/
+
+"SwiftUI Concurrency" = "SwiftUI Concurrency";
+"NEW VIDEO" = "NEW VIDEO";
+"Build an iOS app for iOS 15 with custom layouts, animations and more!" = "Build an iOS app for iOS 15 with custom layouts, animations and more!";
+"Flutter for Designers" = "Flutter for Designers";
+"20 sections - 3 hours" = "20 sections - 3 hours";
+"Build a Flutter app for iOS and Android with custom layouts, animations and more!" = "Build a Flutter app for iOS and Android with custom layouts, animations and more!";
+"React Hooks Advanced" = "React Hooks Advanced";
+"Build a React app with custom layouts, animations and more!" = "Build a React app with custom layouts, animations and more!";
+"Advanced Custom Layout" = "Advanced Custom Layout";
+"SwiftUI for iOS 15" = "SwiftUI for iOS 15";
+"Build an iOS app for iOS 15 with custom layouts." = "Build an iOS app for iOS 15 with custom layouts.";
+"Coding the Home View" = "Coding the Home View";
+"Learn about the formatted(date:time:) method and AsyncImage" = "Learn about the formatted(date:time:) method and AsyncImage";
+"Colors and Shadows" = "Colors and Shadows";
+"Read about the design guidelines and how you can use color to maximize your best views" = "Read about the design guidelines and how you can use color to maximize your best views";
+"iOS Development" = "iOS Development";
+"UI Design" = "UI Design";
+"Web Development" = "Web Development";
+"History" = "History";
+"Favorites" = "Favorites";
+"Downloads" = "Downloads";
+"Featured" = "Featured";
+"Handbooks" = "Handbooks";
+"Courses" = "Courses";
